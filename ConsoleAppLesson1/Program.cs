@@ -8,6 +8,7 @@ namespace ConsoleAppLesson1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Working with Github");
+            Console.WriteLine("New Code");
         }
     }
 }
